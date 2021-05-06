@@ -17,7 +17,7 @@
     "bootstrap": "^4.3.1",
     "chart.js": "^2.9.2",
     "d3": "^5.5.0",
-    "highcharts": "^7.2.1",
+    "highcharts": "^9.0.0",
     "highcharts-react-official": "^2.2.2",
     "mobx": "^5.15.0",
     "mobx-react": "^6.1.4",
